@@ -99,7 +99,7 @@ class RoxyMceWidget extends Widget {
 			'plugins'      => [
 				'advlist autolink autosave autoresize link image lists charmap print preview hr anchor pagebreak spellchecker',
 				'searchreplace wordcount visualblocks visualchars code fullscreen insertdatetime media nonbreaking',
-				'table contextmenu directionality emoticons template textcolor paste fullpage textcolor colorpicker textpattern'
+				'table contextmenu directionality emoticons template textcolor paste textcolor colorpicker textpattern'
 			],
 			'theme'        => 'modern',
 			'toolbar1'     => 'newdocument fullpage | undo redo | styleselect formatselect fontselect fontsizeselect',
